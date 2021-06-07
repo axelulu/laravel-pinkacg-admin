@@ -66,3 +66,4 @@ location / {
 
 ## License
 [MIT](LICENSE)
+# laravel-pinkacg-admin
